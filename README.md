@@ -1,15 +1,10 @@
-
-# Portfolio Website with Advanced Animations ✨
+COMPANY:CODTECH IT SOLUTIONS NAME: RIDDHI GOYAL INTERN ID: CT08WN04 DOMAIN: WEB DEVELOPMENT MENTOR: NEELA SANTOSH
+ Portfolio Website with Advanced Animations 
 
 Welcome to my personal portfolio website! This project showcases my work, skills, and experience with modern web design, enhanced by smooth and creative animations.
 
-## 🔗 Live Demo
-
-👉 [Visit the Website](https://riddhigoyal08.github.io/PORTFOLIO-WEBSITE-WITH-ADVANCED-ANIMATIONS/)
 
 ## 📁 Project Structure
-
-```
 
 PORTFOLIO-WEBSITE-WITH-ADVANCED-ANIMATIONS/
 ├── index.html
